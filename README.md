@@ -22,20 +22,14 @@ A multi-threaded port scanner written in Rust. This tool allows you to scan a ra
 1. Ensure you have Rust installed. If not, you can install it from [rust-lang.org](https://www.rust-lang.org/tools/install).
 2. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/rust-port-sniffer.git
+    https://github.com/KamelSenfro/Port_Sniffer.git
     ```
 3. Change into the project directory:
     ```sh
-    cd rust-port-sniffer
+    cd Port_Sniffer
     ```
 4. Build the project:
     ```sh
     cargo build --release
     ```
 
-### Running the Port Sniffer
-
-You can run the port sniffer with various options:
-
-```sh
-./target/release/rust-port-sniffer [OPTIONS]
